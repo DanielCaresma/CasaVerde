@@ -1,0 +1,14 @@
+:root {
+    --preto: #000000;
+    --cinza: #909090;
+    --branco: #fff;
+    --amarelo: #FFCB47;
+    --fonte-principal: 'Montserrat', sans-serif;
+    --fonte-personalizada: 'Elsie Swash Caps', cursive;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
