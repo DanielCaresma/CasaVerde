@@ -6,9 +6,3 @@
     --fonte-principal: 'Montserrat', sans-serif;
     --fonte-personalizada: 'Elsie Swash Caps', cursive;
 }
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
