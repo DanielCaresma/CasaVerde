@@ -5,6 +5,13 @@
     --branco: #fff;
     --amarelo: #FFCB47;
     --amarelo-transparente: #FFCB4703;
+
     --fonte-principal: 'Montserrat', sans-serif;
     --fonte-personalizada: 'Elsie Swash Caps', cursive;
+
+    --peso-botao: 700;
+    --peso-titulo-destaque: 900;
+
+    --tamanho-titulo: 1.375rem;
+    --tamanho-titulo-destaque: 2rem;
 }

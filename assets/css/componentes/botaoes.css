@@ -4,7 +4,7 @@
     text-align: center;
     color: var(--branco);
     font-family: inherit;
-    font-weight: 700;
+    font-weight: var(--peso-botao);
     font-size: 1rem;
 
     width: 100%;

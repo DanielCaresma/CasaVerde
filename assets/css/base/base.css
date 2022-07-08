@@ -4,6 +4,7 @@
 body {
     background-image: url(../../img/fundo-textura.png), url(../../img/fundo-linhas.png);
     background-position: center;
+    color: var(--cinza);
     font-family: var(--fonte-principal);
     font-size: 1rem;
 }
@@ -11,4 +12,32 @@ body {
 .container {
     padding-right: 1rem;
     padding-left: 1rem;
+}
+
+.titulo {
+    font-size: var(--tamaho-titulo);
+}
+
+.titulo-destaque {
+    font-family: var(--fonte-personalizada);
+    color: var(--preto);
+    font-size: var(--tamanho-titulo-destaque);
+    font-weight: var(--peso-titulo-destaque);
+
+    display: block;
+
+    margin-top: .75rem;
+    margin-bottom: .75rem;
+}
+
+.alinhamento-esquerda {
+    text-align: left;
+}
+
+.alinhamento-meio {
+    text-align: center;
+}
+
+.texto {
+    line-height: 1.625rem;
 }
