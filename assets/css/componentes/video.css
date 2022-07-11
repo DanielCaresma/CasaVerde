@@ -27,9 +27,19 @@
     width: 4.875rem;
     height: 4.875rem;
 
+    border-radius: 50%;
+
     background-color: var(--branco);
     background-image: url(../../img/icones/play.svg);
     background-repeat: no-repeat;
     background-size: 1.75rem;
     background-position: center left 55%;
+}
+
+.cartao-de-video__titulo {
+    color: var(--preto);
+    font-size: var(--tamanho-destaque);
+    font-weight: var(--peso-destaque);
+
+    margin-bottom: .5rem;
 }
