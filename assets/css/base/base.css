@@ -15,10 +15,10 @@ body {
 }
 
 .titulo {
-    font-size: var(--tamaho-titulo);
+    font-size: var(--tamanho-titulo);
 }
 
-.titulo-destaque {
+.titulo--destaque {
     font-family: var(--fonte-personalizada);
     color: var(--preto);
     font-size: var(--tamanho-titulo-destaque);
